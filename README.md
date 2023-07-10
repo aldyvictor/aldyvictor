@@ -19,7 +19,7 @@ My Name is Aldy Victor Rianes, 21 y.o, I'm from Pangandaran, Indonesia. Currentl
 
 ## My Github Stats
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=aldyvictor&show_icons=true&theme=tokyonight)](https://github.com/aldyvictor)
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=aldyvictor&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/aldyvictor)
 
 ## My Socials
 
