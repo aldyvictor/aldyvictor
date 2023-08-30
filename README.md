@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Aldy Victor Rianes, 22 y.o, I'm from Pangandaran, Indonesia. Currently studying at Jabar Coding Camp.
+My Name is Aldy Victor Rianes, 22 y.o, I'm from Pangandaran, Indonesia.
 
 <!--
 - 🔭 I’m currently working on ...
