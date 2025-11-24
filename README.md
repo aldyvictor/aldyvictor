@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Aldy Victor Rianes, 23 y.o, I'm from Pangandaran, Indonesia.
+My Name is Aldy Victor Rianes, 24 y.o, I'm from Pangandaran, Indonesia.
 
 <!--
 - 🔭 I’m currently working on ...
